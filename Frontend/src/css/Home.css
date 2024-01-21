@@ -1,0 +1,14 @@
+/* Define styles for overlaying text */
+.overlay-container {
+    position: relative;
+    z-index: 1;
+  }
+  
+  /* Define styles for the background image container */
+  .bg-image-container {
+    height: 32rem; /* Set the desired height */
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+  
