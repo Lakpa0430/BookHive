@@ -119,6 +119,8 @@ export const Login = () => {
           <div className="py-6 flex justify-end px-8 gap-3">
             {/* Admin login content */}
             <p>Welcome to the Admin login page</p>
+            <p>Welcome back</p>
+
           </div>
         )}
 
